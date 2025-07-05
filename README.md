@@ -2,7 +2,7 @@
 
 📚 2nd Year Software Engineering Student at the University of Auckland <br/>
 👨🏻‍💻 Software Developer at WDCC for the 'Hidden Treasure' Charity <br/>
-🖥️ Passion for front-end development and web design <br/>
+🖥️ Front-end development and web design <br/>
 🎥 Make content about music (and coding soon!) on [social media](https://linktr.ee/andrewxymusic) <br/>
 
 
