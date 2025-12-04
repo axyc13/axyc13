@@ -1,7 +1,7 @@
 ## Hi, I'm Andrew!
 
 📚 Software Engineering Student at the University of Auckland <br/>
-👨🏻‍💻 Software Developer (Full-Stack) at WDCC for the 'Hidden Treasure' Charity <br/>
+👨🏻‍💻 Software Developer @ WDCC, Marketing @ SESA and Treasurer @ AUSCO  <br/>
 🎥 Make content about music (and coding soon!) on [social media](https://linktr.ee/andrewxymusic) <br/>
 
 
