@@ -1,7 +1,7 @@
 ## Hi, I'm Andrew!
 
 📚 Software Engineering Student at the University of Auckland <br/>
-👨🏻‍💻 Software Developer @ WDCC, Marketing @ SESA and Treasurer @ AUSCO  <br/>
+👨🏻‍💻 Software Developer @ [WDCC](https://github.com/UoaWDCC), Marketing @ [SESA](https://github.com/sesauoa) and Treasurer @ AUSCO <br/>
 🎥 Make content about music (and coding soon!) on [social media](https://linktr.ee/andrewxymusic) <br/>
 
 
