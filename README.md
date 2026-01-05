@@ -22,8 +22,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3cc788?logo=supabase&logoColor=white?style=flat)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white?style=flat)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white?style=flat)
 ![Figma](https://img.shields.io/badge/Figma-1A1A1A?style=flat&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
