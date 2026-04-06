@@ -27,7 +27,7 @@
 ![Figma](https://img.shields.io/badge/Figma-1A1A1A?style=flat&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=axyc13&theme=blue_navy&hide_border=false)<br/>
+![](https://streak-stats.demolab.com?user=axyc13&theme=blue_navy&hide_border=false)<br/>
 ![](https://readme-stats-fast.vercel.app/api/top-langs/?username=axyc13&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💰 Join for free!
