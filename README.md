@@ -12,14 +12,15 @@
 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-1A1A1A?style=flat&logo=openjdk&logoColor=f19320) 
+![Java](https://img.shields.io/badge/Java-1A1A1A?style=flat&logo=openjdk&logoColor=f19320) 
 ![Python](https://img.shields.io/badge/Python-1A1A1A?style=flat&logo=python&logoColor=4280b1)
 ![C](https://img.shields.io/badge/C-1A1A1A?style=flat&logo=c&logoColor=6395cc) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%1A1A1A) 
+![C](https://img.shields.io/badge/C++-1A1A1A?style=flat&logo=cplusplus&logoColor=6395cc)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%1A1A1A) 
 ![Next JS](https://img.shields.io/badge/Next.js-1A1A1A?style=flat&logo=next.js&logoColor=white)
-![Payload CMS](https://img.shields.io/badge/Payload-1A1A1A?style=flat&logo=payloadcms&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1A1A1A?style=flat&logo=javascript&logoColor=F0DB4F)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=flat&logo=typescript&logoColor=3178c6) 
+![Payload CMS](https://img.shields.io/badge/Payload-1A1A1A?style=flat&logo=payloadcms&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1A1A1A?style=flat&logo=tailwind-css&logoColor=38b7f0) 
 ![Supabase](https://img.shields.io/badge/Supabase-1A1A1A?style=flat&logo=supabase&logoColor=white?style=flat)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-1A1A1A?style=flat&logo=aws&logoColor=f69403)
